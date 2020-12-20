@@ -1,5 +1,6 @@
 # TheSparksFoundationTasks
 These Repository consists of tasks i have completed during my internship at The Sparks Foundation
+
 Task 1 (Beginner)
 
 Prediction using Supervised ML
